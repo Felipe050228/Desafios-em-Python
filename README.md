@@ -2,7 +2,7 @@
 
 > Dica: Use print(), variáveis, operadores, condicionais, loops e funções simples.
 > 
-- [x]  [1. Escreva um programa que exibe "Olá, Mundo!"](Nivel_1/tr001.py)
+- [x]  [1. Escreva um programa que exibe "Olá, Mundo!"](Nível_1/tr001.py)
 - [x]  [2. Crie um programa que peça seu nome e idade e exiba uma saudação personalizada.](Nivel_1/tr002.py)
 - [x]  [3. Some dois números digitados pelo usuário.](Nivel_1/tr003.py)
 - [x]  [4. Verifique se um número é **par ou ímpar**.](Nivel_1/tr004.py)
