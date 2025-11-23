@@ -2,16 +2,16 @@
 
 > Dica: Use print(), variáveis, operadores, condicionais, loops e funções simples.
 > 
-- [x]  [1. Escreva um programa que exibe "Olá, Mundo!"](nivel_1/tr001.py)
-- [x]  [2. Crie um programa que peça seu nome e idade e exiba uma saudação personalizada.](nivel_1/tr002.py)
-- [x]  [3. Some dois números digitados pelo usuário.](nivel_1/tr003.py)
-- [x]  [4. Verifique se um número é **par ou ímpar**.](nivel_1/tr004.py)
-- [x]  [5. Crie uma tabuada de multiplicação (1 a 10).](nivel_1/tr005.py)
-- [x]  [6. Construa uma calculadora básica (+, -, *, /).](nivel_1/tr006.py)
-- [x]  [7. Peça 3 notas e calcule a média do aluno.](nivel_1/tr007.py)
-- [x]  [8. Descubra se uma pessoa pode votar (idade ≥ 16).](nivel_1/tr008.py)
-- [x]  [9. Verifique se uma palavra é **palíndromo**.](nivel_1/tr009.py)
-- [x]  [10. Gere a sequência de Fibonacci até n termos.](nivel_1/tr010.py)
+- [x]  [1. Escreva um programa que exibe "Olá, Mundo!"](Nivel_1/tr001.py)
+- [x]  [2. Crie um programa que peça seu nome e idade e exiba uma saudação personalizada.](Nivel_1/tr002.py)
+- [x]  [3. Some dois números digitados pelo usuário.](Nivel_1/tr003.py)
+- [x]  [4. Verifique se um número é **par ou ímpar**.](Nivel_1/tr004.py)
+- [x]  [5. Crie uma tabuada de multiplicação (1 a 10).](Nivel_1/tr005.py)
+- [x]  [6. Construa uma calculadora básica (+, -, *, /).](Nivel_1/tr006.py)
+- [x]  [7. Peça 3 notas e calcule a média do aluno.](Nivel_1/tr007.py)
+- [x]  [8. Descubra se uma pessoa pode votar (idade ≥ 16).](Nivel_1/tr008.py)
+- [x]  [9. Verifique se uma palavra é **palíndromo**.](Nivel_1/tr009.py)
+- [x]  [10. Gere a sequência de Fibonacci até n termos.](Nivel_1/tr010.py)
 
 ## 🟡 Nível 2 – Estruturas de Dados
 
