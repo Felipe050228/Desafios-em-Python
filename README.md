@@ -37,3 +37,4 @@
 - [x]  [23. Função que converte Celsiu ↔ Fahrenheit.](Nivel_3/tr023.py)
 - [x]  [24. Escreva em um arquivo `.txt` e depois leia.](Nivel_3/tr024.py)
 - [x]  [25. Faça um contador de palavras em um texto.](Nivel_3/tr025.py)
+- [x]  [26. Crie uma função que receba uma lista e retorne apenas os pares.](Nivel_3/tr026.py)
