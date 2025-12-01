@@ -42,3 +42,9 @@
 - [x] [28. Crie um gerador de senhas aleatórias.](Nivel_3/tr028.py)
 - [x] [29. Implemente uma função recursiva para Fibonacci..](Nivel_3/tr029.py)
 - [x] [30. Organize suas funções em um módulo próprio e importe.](Nivel_3/tr030.py)
+
+## 🟣 Nível 4 – POO (Programação Orientada a Objetos)
+
+> Dica: Use class, __init__, herança, encapsulamento.
+>
+- [x] [31. Crie uma classe Pessoa com atributos nome e idade.](Nivel_4/tr031.py)
