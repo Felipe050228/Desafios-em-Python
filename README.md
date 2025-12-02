@@ -48,3 +48,4 @@
 > Dica: Use class, __init__, herança, encapsulamento.
 >
 - [x] [31. Crie uma classe Pessoa com atributos nome e idade.](Nivel_4/tr031.py)
+- [x] [32. Adicione método que verifica se a pessoa é maior de idade.](Nivel_4/tr032.py)
