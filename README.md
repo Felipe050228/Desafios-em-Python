@@ -49,3 +49,4 @@
 >
 - [x] [31. Crie uma classe Pessoa com atributos nome e idade.](Nivel_4/tr031.py)
 - [x] [32. Adicione método que verifica se a pessoa é maior de idade.](Nivel_4/tr032.py)
+- [x] [33. Crie uma classe Conta Bancária (depositar/sacar/saldo).](Nivel_4/tr033.py)
