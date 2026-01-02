@@ -51,3 +51,4 @@
 - [x] [32. Adicione método que verifica se a pessoa é maior de idade.](Nivel_4/tr032.py)
 - [x] [33. Crie uma classe Conta Bancária (depositar/sacar/saldo).](Nivel_4/tr033.py)
 - [x] [34. Classe Carro com métodos ligar, andar, abastecer.](Nivel_4/tr034.py)
+- [x] [35. Classe Aluno com notas e cálculo de média.](Nivel_4/tr035.py)
