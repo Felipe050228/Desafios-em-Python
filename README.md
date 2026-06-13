@@ -58,3 +58,4 @@
 - [x] [37. Crie uma classe com método estático.](Nivel_4/tr037.py)
 - [x] [38. Implemente encapsulamento (_atributo, __atributo).](Nivel_4/tr038.py)
 - [x] [39. Crie um sistema simples de biblioteca (livros, usuários).](Nivel_4/tr039.py)
+- [x] [40. Implemente polimorfismo (métodos diferentes em subclasses).](Nivel_4/tr040.py)
