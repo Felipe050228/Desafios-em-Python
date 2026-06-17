@@ -59,3 +59,9 @@
 - [x] [38. Implemente encapsulamento (_atributo, __atributo).](Nivel_4/tr038.py)
 - [x] [39. Crie um sistema simples de biblioteca (livros, usuários).](Nivel_4/tr039.py)
 - [x] [40. Implemente polimorfismo (métodos diferentes em subclasses).](Nivel_4/tr040.py)
+
+## 🟠 Nível 5 – Python Avançado
+
+> Dica: Trabalhe com decorators, geradores, context managers, regex, exceptions.
+> 
+- [x] [41. Crie um **decorator** para medir o tempo de execução de uma função.](Nivel_5/tr041.py)
