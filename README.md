@@ -66,3 +66,4 @@
 > 
 - [x] [41. Crie um **decorator** para medir o tempo de execução de uma função.](Nivel_5/tr041.py)
 - [x] [42. Faça um gerador (yield) que retorna números pares infinitos.](Nivel_5/tr042.py)
+- [x]  [43. Crie um **context manager** que abre e fecha arquivos.](Nivel_5/tr043.py)
