@@ -10,4 +10,4 @@ def abrir_arquivo(caminho, modo):
 
 # Como usar:
 with abrir_arquivo('exemplo.txt', 'w') as f:
-    f.write('bct  Olá, mundo!')
+    f.write('Olá, mundo!')
